@@ -34,7 +34,3 @@ h2 {
 .text:not(:last-child) {
   padding-bottom: 20px;
 }
-
-.hidden {
-  display: none;
-}
